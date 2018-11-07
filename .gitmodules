@@ -1,3 +1,6 @@
 [submodule "hacked"]
 	path = hacked
 	url = git@github.com:zvory/hacked.git
+[submodule "background-image-generator"]
+	path = background-image-generator
+	url = git@github.com:zvory/background-image-generator.git
