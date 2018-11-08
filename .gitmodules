@@ -4,3 +4,6 @@
 [submodule "background-image-generator"]
 	path = background-image-generator
 	url = https://github.com/zvory/background-image-generator.git
+[submodule "ibm"]
+	path = ibm
+	url = https://github.com/zvory/ibm.git
