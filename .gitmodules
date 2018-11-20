@@ -7,3 +7,6 @@
 [submodule "ibm"]
 	path = ibm
 	url = https://github.com/zvory/ibm.git
+[submodule "recycle"]
+	path = recycle
+	url = https://github.com/zvory/recycle.git
