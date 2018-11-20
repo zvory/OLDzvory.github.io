@@ -10,3 +10,6 @@
 [submodule "recycle"]
 	path = recycle
 	url = https://github.com/zvory/recycle.git
+[submodule "track-to-css-animation"]
+	path = track-to-css-animation
+	url = https://github.com/zvory/track-to-css-animation.git
