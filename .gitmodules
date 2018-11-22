@@ -13,3 +13,6 @@
 [submodule "track-to-css-animation"]
 	path = track-to-css-animation
 	url = https://github.com/zvory/track-to-css-animation.git
+[submodule "ar"]
+	path = ar
+	url = https://github.com/zvory/ar.git
