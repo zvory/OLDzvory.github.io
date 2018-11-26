@@ -16,3 +16,6 @@
 [submodule "ar"]
 	path = ar
 	url = https://github.com/zvory/ar.git
+[submodule "city"]
+	path = city
+	url = https://github.com/zvory/city.git
